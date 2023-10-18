@@ -8,6 +8,9 @@ setor de Tecnologia da Informação para alertar que há problema na sala de ser
 ## Bibliotecas
 
 beautifulsoup4     4.12.2
+
 pickle5            0.0.11
+
 secure-smtplib     0.1.1
+
 requests           2.31.0
